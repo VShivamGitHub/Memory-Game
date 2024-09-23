@@ -20,8 +20,6 @@
 4. **Randomized Card Layout**:
    - Each new game session shuffles the cards so that the pairs are placed randomly on the grid.
 
-5. **Responsive Design**:
-   - The game is designed to be fully responsive, providing an enjoyable experience on both desktop and mobile devices.
 
 ## Project Structure
 
