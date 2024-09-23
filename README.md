@@ -56,3 +56,7 @@ The project is structured as follows:
 1. Clone the repository:
    ```bash
    git clone https://github.com/VShivamGitHub/Memory-Card-Game.git
+
+2. Start The Game:
+   ```bash
+   https://memory-game-ccj7zqujl-vshivam0808s-projects.vercel.app
