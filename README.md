@@ -11,8 +11,7 @@
    - If a pair matches, they remain visible; if they don't, the cards flip back over after a short delay.
 
 2. **Customizable Card Images and Colors**:
-   - Before starting the game, users can choose the type of card images (e.g., fruits, cars, Pokémon, birds).
-   - Users can also customize the color of the question mark on the back of the cards (e.g., blue, green, red) from a dropdown menu.
+   - Before starting the game, users can choose the type of card images (e.g., fruits, cars, birds).
 
 3. **Win Condition**:
    - The game is won when all pairs of cards are successfully matched.
